@@ -1,0 +1,40 @@
+Model
+
+View
+
+Protocol
+
+    Template 楼层处理跳转协议
+    Template 楼层内容MV映射协议
+    Template 楼层内容中转协议
+    Template 楼层点击跳转协议
+
+
+render 协议
+- TemplateRenderProtocol
+- TemplateSorbRenderProtocol
+- TemplateActionProtocol
+- TemplateCellProtocol
+- TemplateValidationProtocol
+
+
+- TemplateContainerProtocol 容器协议 每种楼层抽象一个协议，通过协议可以对内部的元素进行提取和计算
+		- 主要用于楼层容器概念使用使用
+
+- TemplateRenderProtocol内容协议 每种楼层哪需要显示绘制的对象统一抽象协议
+		- 用于绘制的model统一实现
+
+- TemplateCellProtocol基本属性协议
+		- 传值、计算高度
+
+- TemplateActionProtocol 跳转协议
+		- 统一处理action协议，包装成一个ActionModel形式
+
+- TemplateValidationProtocol
+        - 处理一部分认证校验数据
+
+ViewController
+	- 楼层显示统一交与Model层定制
+	- VC中生成ActionModel,跳转逻辑全部应用于Action协议层，ViewController实现ActionManager 代理，作为回调处理
+	- 特定属性处理逻辑放在分类内
+	- 网络层调用扔保持在ViewController,这一点与传统保持相似，有利于结构分明(优于市面上的所谓MVVM)

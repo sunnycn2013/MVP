@@ -1,0 +1,1911 @@
+{
+    "channelFloorSize": 22,
+    "floors": [
+        {
+            "identityId": 32,
+            "pattern": "Focus",
+            "fheader": {
+                "jump": {}
+            },
+            "picList": [
+                {
+                    "identityId": 1418,
+                    "img": "http://m.360buyimg.com/mobile/s725x175_jfs/t2452/141/1620087321/138446/60c94c77/566169a1Nd6f46a43.jpg",
+                    "isShare": 1,
+                    "jump": {
+                        "des": "m",
+                        "type": 0,
+                        "url": "http://sale.jd.com/app/act/t3SHPsk6gvnQ.html?utm_source=foodTimes",
+                        "params": {
+                            "funcitonId": null,
+                            "from": null,
+                            "url": "http://sale.jd.com/app/act/t3SHPsk6gvnQ.html?utm_source=foodTimes"
+                        },
+                        "srv": "foodTimes_m_http://sale.jd.com/app/act/t3SHPsk6gvnQ.html?utm_source=foodTimes"
+                    },
+                    "share": {
+                        "avatar": "http://m.360buyimg.com/mobile/null"
+                    },
+                    "height": "330",
+                    "width": "1125"
+                },
+                {
+                    "identityId": 1416,
+                    "img": "http://m.360buyimg.com/mobile/s725x175_jfs/t2320/42/1507970895/136275/87fca70/5660f579N34c00c28.jpg",
+                    "isShare": 1,
+                    "jump": {
+                        "des": "m",
+                        "type": 0,
+                        "url": "http://sale.jd.com/app/act/m5C8R2qAGi.html?utm_source=foodTimes",
+                        "params": {
+                            "funcitonId": null,
+                            "from": null,
+                            "url": "http://sale.jd.com/app/act/m5C8R2qAGi.html?utm_source=foodTimes"
+                        },
+                        "srv": "foodTimes_m_http://sale.jd.com/app/act/m5C8R2qAGi.html?utm_source=foodTimes"
+                    },
+                    "share": {
+                        "avatar": "http://m.360buyimg.com/mobile/null"
+                    },
+                    "height": "330",
+                    "width": "1125"
+                },
+                {
+                    "identityId": 1384,
+                    "img": "http://m.360buyimg.com/mobile/s725x175_jfs/t2551/278/670147274/113451/6c90e399/565d1825Nda0bf46c.jpg",
+                    "isShare": 1,
+                    "jump": {
+                        "des": "m",
+                        "type": 0,
+                        "url": "http://sale.jd.com/app/act/OplIsyj5Su.html?utm_source=foodTimes",
+                        "params": {
+                            "funcitonId": null,
+                            "from": null,
+                            "url": "http://sale.jd.com/app/act/OplIsyj5Su.html?utm_source=foodTimes"
+                        },
+                        "srv": "foodTimes_m_http://sale.jd.com/app/act/OplIsyj5Su.html?utm_source=foodTimes"
+                    },
+                    "share": {
+                        "avatar": "http://m.360buyimg.com/mobile/null"
+                    },
+                    "height": "330",
+                    "width": "1125"
+                }
+            ],
+            "width": "1125",
+            "height": "330",
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 42,
+            "pattern": "SingleGoods",
+            "fheader": {
+                "lctitle": "爆品疯抢",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2380/317/721211901/4938/32f0cacb/56244e07N6b8d79bb.png",
+                "rctitle": "更多爆品",
+                "jump": {
+                    "des": "m",
+                    "type": 0,
+                    "url": "http://sale.jd.com/app/act/z8LQ6umyceW4vNGa.html?utm_source=foodTimes",
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "url": "http://sale.jd.com/app/act/z8LQ6umyceW4vNGa.html?utm_source=foodTimes"
+                    },
+                    "srv": "foodTimes_SingleGoods"
+                }
+            },
+            "skuList": [
+                {
+                    "skuId": "1577292",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1318/111/177372472/142990/47d49cdd/55555be0Nd2c5cc4c.jpg",
+                    "pprice": "6.00",
+                    "wprice": "1.00",
+                    "title": "十月初五（OCTOBER FIFTH）奶油小蛋卷30",
+                    "srv": "foodTimes_1577292",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "10059644248",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1930/149/855721811/257650/947564e4/5630b401N2e8310ff.jpg",
+                    "pprice": "16.00",
+                    "wprice": "9.90",
+                    "title": "【满2个减2元 送剥柚器】平和琯溪红肉蜜柚约3斤1个 沙田柚 新鲜水果",
+                    "srv": "foodTimes_10059644248",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "2055894",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2497/49/739948949/229612/c28bf4f2/5626f656Nc88a0328.jpg",
+                    "pprice": "120.00",
+                    "wprice": "119.00",
+                    "title": "旺旺 哎呦 特惠装 1.164kg",
+                    "srv": "foodTimes_2055894",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1787011607",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2023/57/626340434/278032/8a03d4b8/561c6085Ndb10b6bd.jpg",
+                    "pprice": "26.90",
+                    "wprice": "15.90",
+                    "title": "10枚包邮 四川安岳鲜柠檬 尤力克黄柠檬 新鲜水果产地直发 10枚实惠装",
+                    "srv": "foodTimes_1787011607",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1993256",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1882/70/621306387/217695/6f2352ab/561cc406N3c97a0df.jpg",
+                    "pprice": "110.00",
+                    "wprice": "109.00",
+                    "title": "旺旺 糖果果冻特惠装1538g/箱",
+                    "srv": "foodTimes_1993256",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1070760",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2533/257/632193790/210661/eb15f99/56593cabNd8788ef9.jpg",
+                    "pprice": "38.80",
+                    "wprice": "36.80",
+                    "title": "十月稻田 2015年新米 吉林秋田小町大米 东北大米 5kg",
+                    "srv": "foodTimes_1070760",
+                    "top": 1,
+                    "onSell": 1
+                }
+            ],
+            "jump": {
+                "des": "m",
+                "type": 0,
+                "url": "http://sale.jd.com/app/act/z8LQ6umyceW4vNGa.html?utm_source=foodTimes",
+                "params": {
+                    "funcitonId": null,
+                    "from": null,
+                    "url": "http://sale.jd.com/app/act/z8LQ6umyceW4vNGa.html?utm_source=foodTimes"
+                },
+                "srv": "foodTimes_SingleGoods"
+            },
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 174,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 764,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t1945/175/1514385186/95428/aaae16ad/56616d0aN7f62d1e7.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/45AP3FGWvfZQdpz7.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/45AP3FGWvfZQdpz7.html"
+                                },
+                                "srv": "foodTimes_764"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 173,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 763,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t1990/23/1522087453/114678/d904685d/566164f5Na32b7d81.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/ywzgL1Z47Bc6Ge2.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/ywzgL1Z47Bc6Ge2.html"
+                                },
+                                "srv": "foodTimes_763"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 172,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 757,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2065/298/1553258318/141717/fe33ddc1/566150caN8c2a9975.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/egPoGrVRtj.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/egPoGrVRtj.html"
+                                },
+                                "srv": "foodTimes_757"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 43,
+            "pattern": "NSelectN",
+            "fheader": {
+                "lctitle": "优惠专享区",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2530/236/394745172/4597/a46348ba/56499b25N1165acfb.png",
+                "jump": {}
+            },
+            "nBynList": [
+                {
+                    "slogan": "共46件好吃的",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2416/100/1423901185/223689/8cf540b/565ea2afN8630ea6d.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2323/93/634617751/73406/5316d428/561df25aNaeef0436.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2095/290/145599980/161928/426f5c6f/55f273e5Nd5843631.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1207/299/1313918413/171161/bd702586/55da79eaN4345855a.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1624/168/353155453/125125/4572b491/5577db90Nfa2e9f79.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "491",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "foodTimes"
+                        },
+                        "srv": "foodTimes_491"
+                    }
+                },
+                {
+                    "slogan": "共19件随意选",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t1996/72/1477081937/230452/6141d1d4/565cfdcfNd2afc91c.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2371/16/734770785/258497/ed5ba7f9/5625ee88N3ba1f19e.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1657/203/662618295/121892/e8a23dec/55af432cNcf500b0d.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2488/268/21755065/99475/34c655bc/55e6cf6fN2576ed8f.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t169/330/1956220034/131754/68cb6199/53bf3afdNc7f9977a.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "44",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "foodTimes"
+                        },
+                        "srv": "foodTimes_44"
+                    }
+                },
+                {
+                    "slogan": "共29件包邮商品",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t1909/208/734224374/102575/581f8e7/56237711N77c63c71.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2089/142/1071392949/448727/3875a4c1/564159fdNa1619b40.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1447/27/208721893/411253/e9f7e6b0/55655b60N6b133d1b.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1951/93/975356915/345234/f7a32b7a/563afb71N5ff0e92c.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2476/51/1237153980/490287/c77d43a/564afb44N258ca133.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "54",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "foodTimes"
+                        },
+                        "srv": "foodTimes_54"
+                    }
+                },
+                {
+                    "slogan": "共18件好吃的",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2551/142/646179650/111792/ae72670b/565cff8cN8a1df36e.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1891/135/1173539766/652693/5068c282/564bf285N0c993f0e.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1804/59/43898102/129149/5ab55fab/55cbebaaNf3ad6151.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1822/67/45680752/132627/6053aafb/55cbebaeN890ebbec.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t154/278/2134690860/164238/d4ce801a/53c5d0fbN63e6c20a.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "98",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "foodTimes"
+                        },
+                        "srv": "foodTimes_98"
+                    }
+                },
+                {
+                    "slogan": "共79件随意选",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2023/193/1499587243/124707/f7b27ebf/565cfcdcNac39e83b.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t958/44/639318585/80365/f049617f/55360deeNc249d060.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1123/207/1038833176/136954/fcf1ea8f/5566d210N54a5a3f6.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1669/233/900797538/165920/6968720/55ded8b7Nda3c1c4a.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t844/313/1089972352/174403/ad7dc72e/55702986Ndf61fea7.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "53",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "foodTimes"
+                        },
+                        "srv": "foodTimes_53"
+                    }
+                },
+                {
+                    "slogan": "共8件任意选",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2023/155/1559823320/136843/c99e858f/56600c12N0d641284.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2104/337/36582136/473227/3bc0f9a6/55e90040N8b4d2495.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1945/289/72601344/427279/ad7a59fe/55ebf639N759de08f.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1447/312/837108774/506034/43f3c54c/55af6387N52daf25a.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1834/117/1326093273/429313/55c150c5/55e90360Nf6081c30.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "97",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "foodTimes"
+                        },
+                        "srv": "foodTimes_97"
+                    }
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 130,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "品类专场",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2509/290/384976729/4354/798bc557/56499b3dNc6fcf076.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "003",
+                    "picList": [
+                        {
+                            "identityId": 608,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t2029/171/1415110184/199495/66ff4a71/565bf248N1f30628c.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/04gxvjZNd7mQ3.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/04gxvjZNd7mQ3.html"
+                                },
+                                "srv": "foodTimes_608"
+                            }
+                        },
+                        {
+                            "identityId": 609,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t2044/268/1471609337/42805/3d15db84/565fad19N8e0cb1ea.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/hHJs1kOCDorT.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/hHJs1kOCDorT.html"
+                                },
+                                "srv": "foodTimes_609"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                },
+                {
+                    "pattern": "003",
+                    "picList": [
+                        {
+                            "identityId": 610,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t2278/110/1390360006/81884/3513feb0/565bf954Na351e57f.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/nbpo3kxfqiF0J.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/nbpo3kxfqiF0J.html"
+                                },
+                                "srv": "foodTimes_610"
+                            }
+                        },
+                        {
+                            "identityId": 611,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t2266/293/1556350530/122407/20a9498b/565cfc69Na524484d.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/J1ZDLkxvntu.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/J1ZDLkxvntu.html"
+                                },
+                                "srv": "foodTimes_611"
+                            }
+                        }
+                    ],
+                    "identityId": 1
+                },
+                {
+                    "pattern": "003",
+                    "picList": [
+                        {
+                            "identityId": 612,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t2281/202/1469728805/87093/d8a6b4ef/565bf3ffN355b8400.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/n3k71qgIrD0UCh.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/n3k71qgIrD0UCh.html"
+                                },
+                                "srv": "foodTimes_612"
+                            }
+                        },
+                        {
+                            "identityId": 613,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t1981/206/1462711332/81559/75fc7df0/5660f4baN79ff15a8.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/SGJL8AzqhBpr.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/SGJL8AzqhBpr.html"
+                                },
+                                "srv": "foodTimes_613"
+                            }
+                        }
+                    ],
+                    "identityId": 2
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 144,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "今日新鲜",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2398/180/1025996847/3701/836a5d91/56540ed6Na42d898e.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "004",
+                    "picList": [
+                        {
+                            "identityId": 668,
+                            "img": "http://m.360buyimg.com/mobile/s288x128_jfs/t2536/364/653074323/86717/74a7c0ba/565d116fNd4eae543.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/7YFcuijtvn.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/7YFcuijtvn.html"
+                                },
+                                "srv": "foodTimes_668"
+                            }
+                        },
+                        {
+                            "identityId": 669,
+                            "img": "http://m.360buyimg.com/mobile/s288x128_jfs/t2020/171/1510610816/92847/b0c9899/565d11aaNfb4e8ad7.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/Lg3CQ05hZxN.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/Lg3CQ05hZxN.html"
+                                },
+                                "srv": "foodTimes_669"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                },
+                {
+                    "pattern": "004",
+                    "picList": [
+                        {
+                            "identityId": 670,
+                            "img": "http://m.360buyimg.com/mobile/s288x128_jfs/t2305/81/1474478276/89758/a126e145/565d1208N17634e6e.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/JdUarAZ8zl.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/JdUarAZ8zl.html"
+                                },
+                                "srv": "foodTimes_670"
+                            }
+                        },
+                        {
+                            "identityId": 671,
+                            "img": "http://m.360buyimg.com/mobile/s288x128_jfs/t1912/179/1078003627/65179/7c8db057/565d11dcN24a0deec.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/xpoDseKmfBXLT2yY.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/xpoDseKmfBXLT2yY.html"
+                                },
+                                "srv": "foodTimes_671"
+                            }
+                        }
+                    ],
+                    "identityId": 1
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 115,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "特色市场",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2413/164/1159802523/4057/cf60ba7e/564999c4Ne52ca5d3.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "007",
+                    "picList": [
+                        {
+                            "identityId": 595,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t1948/135/1442736505/144327/4d30d9ea/565c1b54N293c80f7.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/KWqpl4MyUGL.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/KWqpl4MyUGL.html"
+                                },
+                                "srv": "foodTimes_595"
+                            }
+                        },
+                        {
+                            "identityId": 596,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2302/145/1052948398/105885/722546c4/565c1b88N6a8b0dd4.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/LOTeZUsnq70.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/LOTeZUsnq70.html"
+                                },
+                                "srv": "foodTimes_596"
+                            }
+                        },
+                        {
+                            "identityId": 597,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2188/152/1440180633/67143/2792820e/565c2596N1cb7452c.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/nOdGXmSDp5xTr1a.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/nOdGXmSDp5xTr1a.html"
+                                },
+                                "srv": "foodTimes_597"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                },
+                {
+                    "pattern": "007",
+                    "picList": [
+                        {
+                            "identityId": 600,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2512/320/645294223/93125/7d69c490/565c1bdeN218f183c.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/poyOBuD2vQkt.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/poyOBuD2vQkt.html"
+                                },
+                                "srv": "foodTimes_600"
+                            }
+                        },
+                        {
+                            "identityId": 601,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t1921/295/1438478820/64681/a253beb/565c1c02Nc3bed647.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/XcDbuvrgPtQ4A.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/XcDbuvrgPtQ4A.html"
+                                },
+                                "srv": "foodTimes_601"
+                            }
+                        },
+                        {
+                            "identityId": 602,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2158/36/1046875238/69903/8dd05df8/565c293fNb075e8c0.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/iEoXpW6JdU7lO.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/iEoXpW6JdU7lO.html"
+                                },
+                                "srv": "foodTimes_602"
+                            }
+                        }
+                    ],
+                    "identityId": 1
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 108,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "逛一逛",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2467/123/1145131416/3273/8f26938e/56499c55N90dd4479.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 327,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2329/310/958271529/95477/9f272ed4/56375f47Nf1a571ee.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/ysrEnGBzJC7.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/ysrEnGBzJC7.html"
+                                },
+                                "srv": "foodTimes_327"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 141,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 664,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2425/190/1456454255/75229/8fe0d539/565d10f5N5d5d4582.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/WKfEh72P36ib4VFR.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/WKfEh72P36ib4VFR.html"
+                                },
+                                "srv": "foodTimes_664"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 171,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 751,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2275/47/1397209731/50252/654be748/565ffaa8Ne725ca5d.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/amxXqk5JysFTZ17.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/amxXqk5JysFTZ17.html"
+                                },
+                                "srv": "foodTimes_751"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 149,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 690,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2230/227/1468372569/106134/8914bf09/56601807Neb62d6f9.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/vBQOJwFicU.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/vBQOJwFicU.html"
+                                },
+                                "srv": "foodTimes_690"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 160,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 708,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2497/335/1543599331/88807/f404af10/565e5c53N4d12717e.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/0G14n6EMPLylbdo.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/0G14n6EMPLylbdo.html"
+                                },
+                                "srv": "foodTimes_708"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 147,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 678,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2497/23/1480481273/107841/12b582c6/565d66f3N1bfdfcbe.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/YPdW6yvEMsJ.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/YPdW6yvEMsJ.html"
+                                },
+                                "srv": "foodTimes_678"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 139,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 656,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t1900/260/1312088902/135059/7f422bd0/5652ec7dN0f806169.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/otBpUQOwCbyWX.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/otBpUQOwCbyWX.html"
+                                },
+                                "srv": "foodTimes_656"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 134,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 618,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2161/14/1456866655/195424/a2d520a0/565d1cfdNeb469566.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/ePa2W1V5bocAp.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/ePa2W1V5bocAp.html"
+                                },
+                                "srv": "foodTimes_618"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 136,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 625,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2497/216/1386248230/146018/5727a855/5655267aN6158f5d8.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/z0RrOwNHvj.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/z0RrOwNHvj.html"
+                                },
+                                "srv": "foodTimes_625"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 137,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "hybridList": [],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 38,
+            "pattern": "Category",
+            "fheader": {
+                "jump": {}
+            },
+            "categoryList": [
+                {
+                    "identityId": 112,
+                    "title": "今日必买",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "112",
+                        "catelogyIdLevel2": "2",
+                        "catelogyIdLevel1": "1",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "catelogyId": "3",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "今日甜点",
+                            "type": 2,
+                            "functionId": "aggregatePage",
+                            "businessType": -1,
+                            "params": {
+                                "secondCategoryId": "254",
+                                "from": "aggregatePage",
+                                "functionId": "aggregatePage",
+                                "bid": "foodTimes"
+                            },
+                            "srv": "foodTimes_今日必买_今日甜点"
+                        },
+                        {
+                            "title": "今日新鲜",
+                            "type": 2,
+                            "functionId": "aggregatePage",
+                            "businessType": -1,
+                            "params": {
+                                "secondCategoryId": "199",
+                                "from": "aggregatePage",
+                                "functionId": "aggregatePage",
+                                "bid": "foodTimes"
+                            },
+                            "srv": "foodTimes_今日必买_今日新鲜"
+                        },
+                        {
+                            "title": "牛奶",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "5019",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "33",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "12215"
+                            },
+                            "srv": "foodTimes_今日必买_牛奶"
+                        },
+                        {
+                            "title": "饼干蛋糕",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "5019",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "34",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "5020"
+                            },
+                            "srv": "foodTimes_今日必买_饼干蛋糕"
+                        },
+                        {
+                            "title": "大米",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "大米",
+                                "secondCategoryId": "241",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_今日必买_大米"
+                        },
+                        {
+                            "title": "进口泡面",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "进口泡面",
+                                "secondCategoryId": "242",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_今日必买_进口泡面"
+                        },
+                        {
+                            "title": "进口零食",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "进口零食",
+                                "secondCategoryId": "243",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_今日必买_进口零食"
+                        },
+                        {
+                            "title": "星巴克",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "星巴克咖啡",
+                                "secondCategoryId": "11",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_今日必买_星巴克"
+                        }
+                    ],
+                    "srv": "foodTimes_0_今日必买"
+                },
+                {
+                    "identityId": 115,
+                    "title": "坚果炒货",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "115",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "松子",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "松子",
+                                "secondCategoryId": "296",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_松子"
+                        },
+                        {
+                            "title": "腰果",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "腰果",
+                                "secondCategoryId": "297",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_腰果"
+                        },
+                        {
+                            "title": "碧根果",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "碧根果",
+                                "secondCategoryId": "298",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_碧根果"
+                        },
+                        {
+                            "title": "夏威夷果",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "夏威夷果",
+                                "secondCategoryId": "299",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_夏威夷果"
+                        },
+                        {
+                            "title": "瓜子",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "瓜子",
+                                "secondCategoryId": "300",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_瓜子"
+                        },
+                        {
+                            "title": "花生",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "花生",
+                                "secondCategoryId": "301",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_花生"
+                        },
+                        {
+                            "title": "开心果",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "开心果",
+                                "secondCategoryId": "302",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_开心果"
+                        },
+                        {
+                            "title": "薄皮核桃",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "薄皮核桃",
+                                "secondCategoryId": "303",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_坚果炒货_薄皮核桃"
+                        }
+                    ],
+                    "srv": "foodTimes_1_坚果炒货"
+                },
+                {
+                    "identityId": 167,
+                    "title": "出行必购",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "167",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "泡面",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "桶装面",
+                                "secondCategoryId": "233",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_泡面"
+                        },
+                        {
+                            "title": "火腿肠",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "火腿肠",
+                                "secondCategoryId": "234",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_火腿肠"
+                        },
+                        {
+                            "title": "瓜子",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "瓜子",
+                                "secondCategoryId": "235",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_瓜子"
+                        },
+                        {
+                            "title": "啤酒",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "啤酒",
+                                "secondCategoryId": "236",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_啤酒"
+                        },
+                        {
+                            "title": "卤蛋",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "卤蛋",
+                                "secondCategoryId": "237",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_卤蛋"
+                        },
+                        {
+                            "title": "凤爪",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "凤爪",
+                                "secondCategoryId": "238",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_凤爪"
+                        },
+                        {
+                            "title": "面包",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "面包",
+                                "secondCategoryId": "239",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_面包"
+                        },
+                        {
+                            "title": "矿泉水",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "矿泉水",
+                                "secondCategoryId": "240",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_出行必购_矿泉水"
+                        }
+                    ],
+                    "srv": "foodTimes_2_出行必购"
+                },
+                {
+                    "identityId": 117,
+                    "title": "扛饿必备",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "117",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "蛋糕",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "蛋糕",
+                                "secondCategoryId": "29",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_扛饿必备_蛋糕"
+                        },
+                        {
+                            "title": "牛肉干",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "牛肉干",
+                                "secondCategoryId": "30",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_扛饿必备_牛肉干"
+                        },
+                        {
+                            "title": "饼干",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "饼干",
+                                "secondCategoryId": "31",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_扛饿必备_饼干"
+                        },
+                        {
+                            "title": "巧克力",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "巧克力",
+                                "secondCategoryId": "32",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_扛饿必备_巧克力"
+                        },
+                        {
+                            "title": "速食面",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "方便面",
+                                "secondCategoryId": "214",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_扛饿必备_速食面"
+                        },
+                        {
+                            "title": "火腿肠",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "火腿肠",
+                                "secondCategoryId": "215",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_扛饿必备_火腿肠"
+                        }
+                    ],
+                    "srv": "foodTimes_3_扛饿必备"
+                },
+                {
+                    "identityId": 119,
+                    "title": "配饭神器",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "119",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "老干妈",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "老干妈",
+                                "secondCategoryId": "40",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_老干妈"
+                        },
+                        {
+                            "title": "饭扫光",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "饭扫光",
+                                "secondCategoryId": "41",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_饭扫光"
+                        },
+                        {
+                            "title": "乌江",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "乌江下饭菜",
+                                "secondCategoryId": "42",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_乌江"
+                        },
+                        {
+                            "title": "六必居",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "六必居下饭菜",
+                                "secondCategoryId": "43",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_六必居"
+                        },
+                        {
+                            "title": "三和四美",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "三和四美",
+                                "secondCategoryId": "44",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_三和四美"
+                        },
+                        {
+                            "title": "豆腐乳",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "豆腐乳",
+                                "secondCategoryId": "167",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_豆腐乳"
+                        },
+                        {
+                            "title": "金针菇",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "金针菇",
+                                "secondCategoryId": "168",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_金针菇"
+                        },
+                        {
+                            "title": "辣条",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "辣条",
+                                "secondCategoryId": "169",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_配饭神器_辣条"
+                        }
+                    ],
+                    "srv": "foodTimes_4_配饭神器"
+                },
+                {
+                    "identityId": 118,
+                    "title": "地方特产",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "118",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "四川",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "36",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2669"
+                            },
+                            "srv": "foodTimes_地方特产_四川"
+                        },
+                        {
+                            "title": "新疆",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "37",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1589"
+                            },
+                            "srv": "foodTimes_地方特产_新疆"
+                        },
+                        {
+                            "title": "湖南",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "38",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2656"
+                            },
+                            "srv": "foodTimes_地方特产_湖南"
+                        },
+                        {
+                            "title": "云南",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "39",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2670"
+                            },
+                            "srv": "foodTimes_地方特产_云南"
+                        },
+                        {
+                            "title": "内蒙",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "141",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2648"
+                            },
+                            "srv": "foodTimes_地方特产_内蒙"
+                        },
+                        {
+                            "title": "北京",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "142",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2644"
+                            },
+                            "srv": "foodTimes_地方特产_北京"
+                        },
+                        {
+                            "title": "山西",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "143",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2647"
+                            },
+                            "srv": "foodTimes_地方特产_山西"
+                        },
+                        {
+                            "title": "福建",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "144",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2653"
+                            },
+                            "srv": "foodTimes_地方特产_福建"
+                        },
+                        {
+                            "title": "东北",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1581",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "145",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "4693"
+                            },
+                            "srv": "foodTimes_地方特产_东北"
+                        }
+                    ],
+                    "srv": "foodTimes_5_地方特产"
+                },
+                {
+                    "identityId": 120,
+                    "title": "瓜果生鲜",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "120",
+                        "catelogyIdLevel2": "1583",
+                        "catelogyIdLevel1": "1320",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "catelogyId": "1590",
+                        "bid": "foodTimes"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "国产水果",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "12221",
+                                "catelogyIdLevel1": "12218",
+                                "secondCategoryId": "171",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "12237"
+                            },
+                            "srv": "foodTimes_瓜果生鲜_国产水果"
+                        },
+                        {
+                            "title": "进口水果",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "12221",
+                                "catelogyIdLevel1": "12218",
+                                "secondCategoryId": "172",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "12238"
+                            },
+                            "srv": "foodTimes_瓜果生鲜_进口水果"
+                        },
+                        {
+                            "title": "生鲜",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "生鲜",
+                                "secondCategoryId": "173",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "foodTimes_瓜果生鲜_生鲜"
+                        }
+                    ],
+                    "srv": "foodTimes_6_瓜果生鲜"
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        }
+    ],
+    "name": "小食代",
+    "code": "0",
+    "executeTime": 8,
+    "head": {
+        "id": 20,
+        "title": "小食代",
+        "titleImg": "http://m.360buyimg.com/mobile/jfs/t1942/134/554484788/8478/d240c597/5618c292Nd1f9c241.png",
+        "isShare": 0,
+        "withCart": 1,
+        "cartSrv": "foodTimes"
+    },
+    "float": {
+        "picList": [
+            {
+                "title": "分类",
+                "img": "http://m.360buyimg.com/mobile/jfs/t2035/321/269593958/1060/2607e733/55fc194cN36418d10.png",
+                "jump": {
+                    "des": "genericChannel",
+                    "type": 1,
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "bid": "foodTimesCategory"
+                    },
+                    "srv": "foodTimes_分类"
+                }
+            },
+            {
+                "title": "排行榜",
+                "img": "http://m.360buyimg.com/mobile/jfs/t2203/129/291967046/1932/e5cb770/55fc0a86N011b9c56.png",
+                "jump": {
+                    "des": "ranklist",
+                    "type": 1,
+                    "params": {
+                        "categoryIds": "1583,1581,5019,1585",
+                        "funcitonId": null,
+                        "from": null
+                    },
+                    "srv": "foodTimes_排行榜"
+                }
+            },
+            {
+                "title": "促销专场",
+                "img": "http://m.360buyimg.com/mobile/jfs/t1906/276/294267670/1060/2607e733/55fc1c86N02c2195a.png",
+                "jump": {
+                    "des": "m",
+                    "type": 0,
+                    "url": "http://sale.jd.com/app/act/F4SWDxGbXrJtTQC.html",
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "url": "http://sale.jd.com/app/act/F4SWDxGbXrJtTQC.html"
+                    },
+                    "srv": "foodTimes_促销专场"
+                }
+            }
+        ]
+    }
+}

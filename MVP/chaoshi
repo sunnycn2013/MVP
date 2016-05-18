@@ -1,0 +1,2762 @@
+{
+    "channelFloorSize": 19,
+    "floors": [
+        {
+            "identityId": 73,
+            "pattern": "Focus",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "picList": [
+                {
+                    "identityId": 1730,
+                    "img": "http://m.360buyimg.com/mobile/s725x175_jfs/t2290/201/1092393994/117810/99585e19/56629728N45ed2c25.jpg",
+                    "isShare": 1,
+                    "jump": {
+                        "des": "m",
+                        "type": 0,
+                        "url": "http://sale.jd.com/app/act/UgZkpm5rYzwP8.html?utm_source=loveLife",
+                        "params": {
+                            "funcitonId": null,
+                            "from": null,
+                            "url": "http://sale.jd.com/app/act/UgZkpm5rYzwP8.html?utm_source=loveLife"
+                        },
+                        "srv": "loveLife_m_http://sale.jd.com/app/act/UgZkpm5rYzwP8.html?utm_source=loveLife"
+                    },
+                    "share": {
+                        "avatar": "http://m.360buyimg.com/mobile/null"
+                    },
+                    "height": "330",
+                    "width": "1125"
+                },
+                {
+                    "identityId": 1732,
+                    "img": "http://m.360buyimg.com/mobile/s725x175_jfs/t2275/280/1464427761/111949/7ded41c/5662977bNa455d647.jpg",
+                    "isShare": 1,
+                    "jump": {
+                        "des": "m",
+                        "type": 0,
+                        "url": "http://sale.jd.com/app/act/mEyZKNri2DQAvs1e.html?utm_source=loveLife",
+                        "params": {
+                            "funcitonId": null,
+                            "from": null,
+                            "url": "http://sale.jd.com/app/act/mEyZKNri2DQAvs1e.html?utm_source=loveLife"
+                        },
+                        "srv": "loveLife_m_http://sale.jd.com/app/act/mEyZKNri2DQAvs1e.html?utm_source=loveLife"
+                    },
+                    "share": {
+                        "avatar": "http://m.360buyimg.com/mobile/null"
+                    },
+                    "height": "330",
+                    "width": "1125"
+                },
+                {
+                    "identityId": 1734,
+                    "img": "http://m.360buyimg.com/mobile/s725x175_jfs/t2080/336/1502610919/94883/2950665/566297e5N645db930.jpg",
+                    "isShare": 1,
+                    "jump": {
+                        "des": "m",
+                        "type": 0,
+                        "url": "http://sale.jd.com/app/act/D4pnXxiWMV8JzrLs.html?utm_source=loveLife",
+                        "params": {
+                            "funcitonId": null,
+                            "from": null,
+                            "url": "http://sale.jd.com/app/act/D4pnXxiWMV8JzrLs.html?utm_source=loveLife"
+                        },
+                        "srv": "loveLife_m_http://sale.jd.com/app/act/D4pnXxiWMV8JzrLs.html?utm_source=loveLife"
+                    },
+                    "share": {
+                        "avatar": "http://m.360buyimg.com/mobile/null"
+                    },
+                    "height": "330",
+                    "width": "1125"
+                }
+            ],
+            "width": "1125",
+            "height": "330",
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 77,
+            "pattern": "SingleGoods",
+            "fheader": {
+                "lctitle": "凑单专区",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t1837/61/1469268856/5450/9700af31/565cf4a1Ne95f2b56.png",
+                "rctitle": "更多推荐",
+                "jump": {
+                    "des": "m",
+                    "type": 0,
+                    "url": "http://sale.jd.com/app/act/bRQxDky6vcN5unh0.html?utm_source=loveLife",
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "url": "http://sale.jd.com/app/act/bRQxDky6vcN5unh0.html?utm_source=loveLife"
+                    },
+                    "srv": "loveLife_SingleGoods"
+                }
+            },
+            "skuList": [
+                {
+                    "skuId": "1081066",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1603/345/395063963/64051/6bf2cf46/557e2c5cN307f2672.jpg",
+                    "pprice": "4.00",
+                    "wprice": "2.90",
+                    "title": "白猫 柠檬红茶洗洁精500g",
+                    "srv": "loveLife_1081066",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "856805",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1402/122/1089436397/106587/89a3b5fe/55b891dcN59a469e2.jpg",
+                    "pprice": "14.80",
+                    "wprice": "9.90",
+                    "title": "恒寿堂 蜂蜜柚子茶300g",
+                    "srv": "loveLife_856805",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1035886",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t970/324/633098132/46942/e9878894/55376f6eN6ee2e558.jpg",
+                    "pprice": "12.90",
+                    "wprice": "12.90",
+                    "title": "优家（UPLUS） 干湿两用亲肤三角形 化妆粉扑化妆棉12个装 （颜色随机）（干湿两用 上妆必备 清洁）",
+                    "srv": "loveLife_1035886",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1645264",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1657/294/128355197/147412/f088d3a1/55763b63Nd9c84eab.jpg",
+                    "pprice": "13.00",
+                    "wprice": "13.00",
+                    "title": "祁草养生 荷叶茶 花草茶叶  25克/罐",
+                    "srv": "loveLife_1645264",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1246874",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2311/95/88135000/100315/5760bd7e/55ed5cb0N39c2b2d5.jpg",
+                    "pprice": "36.00",
+                    "wprice": "9.90",
+                    "title": "丹瑞肤乐宝（Denari）黄油宝宝润肤乳25g 婴儿油 保湿面霜",
+                    "srv": "loveLife_1246874",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "2113739",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2089/260/935633204/134699/8fa1ca8a/56372154Nf017e90b.jpg",
+                    "pprice": "9.90",
+                    "wprice": "9.90",
+                    "title": "妈咪宝贝（Mamypoko） 瞬吸干爽L男6片潮宝型装纸尿裤（适用9-14kg）",
+                    "srv": "loveLife_2113739",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "425886",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t757/34/81925721/125724/cc1007cd/54856cf3Neb8995e0.jpg",
+                    "pprice": "15.00",
+                    "wprice": "9.90",
+                    "title": "方广  宝宝机能饼干 蛋黄味(盒装)45g*2袋(6个月以上适用)",
+                    "srv": "loveLife_425886",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "274644",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1771/161/2107079362/52680/9bec9a3/5626f61eN4663f96d.jpg",
+                    "pprice": "17.90",
+                    "wprice": "13.90",
+                    "title": "大宝SOD蜜100ml（新老包装随机发货）",
+                    "srv": "loveLife_274644",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1098326",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2260/78/627563110/70367/fba8c6f7/561b2b10N1d80a9b8.jpg",
+                    "pprice": "11.90",
+                    "wprice": "5.90",
+                    "title": "安洁（Anzeel）洁净护理洗衣液 500g/袋 深层去渍",
+                    "srv": "loveLife_1098326",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1298682",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t652/93/1159670573/113545/ba83f51e/54b8b6d6N171b1b14.jpg",
+                    "pprice": "9.90",
+                    "wprice": "8.90",
+                    "title": "五月花 厨房纸 2层卷筒式厨房纸120张*3卷",
+                    "srv": "loveLife_1298682",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1212484",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t361/188/218753523/52106/16c765de/5411545dN2b35f02d.jpg",
+                    "pprice": "12.90",
+                    "wprice": "9.90",
+                    "title": "英国小树苗 婴幼儿牙膏哈密瓜味25g（1岁+）",
+                    "srv": "loveLife_1212484",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1314240",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1048/304/71069325/88514/923fa0f0/54f7f066N815b6058.jpg",
+                    "pprice": "8.80",
+                    "wprice": "3.00",
+                    "title": "棒棒猪 防撞角",
+                    "srv": "loveLife_1314240",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "996649",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t643/147/737366838/224281/70cab9a9/54814560Naa2c096e.jpg",
+                    "pprice": "9.90",
+                    "wprice": "8.20",
+                    "title": "苏菲 超熟睡安心裤M-L 2P（新老包装加量装随机发货）",
+                    "srv": "loveLife_996649",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1656917",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2506/155/1405639989/121515/56a96e31/565561fdN7dc721ae.jpg",
+                    "pprice": "3.80",
+                    "wprice": "3.70",
+                    "title": "新良面包粉 新良高筋面粉  烘焙原料 优质面包小麦粉 500g",
+                    "srv": "loveLife_1656917",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "2137035",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2578/272/416729442/587287/9530deda/564be17fNeb7acf5d.jpg",
+                    "pprice": "9.90",
+                    "wprice": "8.90",
+                    "title": "华美酥性饼干(牛乳味)468g",
+                    "srv": "loveLife_2137035",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "230861",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_g13/M07/0E/10/rBEhU1K8J7cIAAAAAANH1MEY0IYAAHTMADRDScAA0fs849.jpg",
+                    "pprice": "9.90",
+                    "wprice": "9.90",
+                    "title": "贝亲（Pigeon）细轴棉棒棉签 180支 KA01（耳孔清洁）",
+                    "srv": "loveLife_230861",
+                    "top": 0,
+                    "onSell": 1
+                }
+            ],
+            "jump": {
+                "des": "m",
+                "type": 0,
+                "url": "http://sale.jd.com/app/act/bRQxDky6vcN5unh0.html?utm_source=loveLife",
+                "params": {
+                    "funcitonId": null,
+                    "from": null,
+                    "url": "http://sale.jd.com/app/act/bRQxDky6vcN5unh0.html?utm_source=loveLife"
+                },
+                "srv": "loveLife_SingleGoods"
+            },
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 63,
+            "pattern": "SingleGoods",
+            "fheader": {
+                "lctitle": "日日淘",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2506/334/610794508/5324/7086f6a8/561cdbd1N1fac0b7f.png",
+                "rctitle": "更多精品",
+                "jump": {
+                    "des": "m",
+                    "type": 0,
+                    "url": "http://sale.jd.com/app/act/ehIafxgDJOzwFk1A.html?utm_source=loveLife",
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "url": "http://sale.jd.com/app/act/ehIafxgDJOzwFk1A.html?utm_source=loveLife"
+                    },
+                    "srv": "loveLife_SingleGoods"
+                }
+            },
+            "skuList": [
+                {
+                    "skuId": "1845634",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1927/151/1453853/209694/4970eb3b/55e56654N226b2f11.jpg",
+                    "pprice": "23.90",
+                    "wprice": "22.90",
+                    "title": "维达 抽纸 细韧系列3层120抽*8包（中规格）",
+                    "srv": "loveLife_1845634",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1003061",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2464/315/1302249804/87239/9ee1fcb5/564d22d8Nb5e114cd.jpg",
+                    "pprice": "16.80",
+                    "wprice": "14.90",
+                    "title": "清风（APP） 卷筒卫生纸 几何 3层270段10卷装",
+                    "srv": "loveLife_1003061",
+                    "top": 1,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1081321",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1633/306/395085994/109773/7bc690ae/557e2c5fNf4e1465c.jpg",
+                    "pprice": "18.50",
+                    "wprice": "14.50",
+                    "title": "白猫 柠檬红茶洗洁精2000g",
+                    "srv": "loveLife_1081321",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1769200676",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1855/364/566712908/262930/2ddc7f0d/5615c8eeN8986a11a.jpg",
+                    "pprice": "39.90",
+                    "wprice": "39.90",
+                    "title": "【一鸣特产】小喇叭 开口松子200g*2 东北特产红松子 休闲零食坚果特产",
+                    "srv": "loveLife_1769200676",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "2117782",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1879/319/1103888877/75948/92888a0e/563c5447N37efb8ba.jpg",
+                    "pprice": "11.50",
+                    "wprice": "9.90",
+                    "title": "鲁王（luwang）自发粉1kg 含酵母 烘焙 蛋糕粉",
+                    "srv": "loveLife_2117782",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1150557",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2449/295/1287097479/183290/52e38ac5/564a8423N01d12b02.jpg",
+                    "pprice": "17.90",
+                    "wprice": "17.90",
+                    "title": "百草味 坚果炒货 干果零食核桃 碧根果190g/袋",
+                    "srv": "loveLife_1150557",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1804754072",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2146/185/935367152/92229/2f0ff4e2/5634d291Nff9856a2.jpg",
+                    "pprice": "99.00",
+                    "wprice": "39.90",
+                    "title": "蒙得 1.2L电煮锅 电火锅 粉红",
+                    "srv": "loveLife_1804754072",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1620041544",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2521/1/161112055/470237/dd3f1465/563a1a2eNaa0fef73.jpg",
+                    "pprice": "39.90",
+                    "wprice": "32.90",
+                    "title": "杭泰电子秤电子称体重秤人体秤体重秤家用 青春树健康秤 青春蓝大屏带测温",
+                    "srv": "loveLife_1620041544",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1224718",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t718/102/1401611221/79434/c5cc9ff8/55385fccN73faa183.jpg",
+                    "pprice": "49.00",
+                    "wprice": "29.90",
+                    "title": "奥克斯（AUX）HX-A5028彩钢电水壶 2.0L",
+                    "srv": "loveLife_1224718",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1708025",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1636/296/607484133/70347/6e94f1a/559b9116N202d75da.jpg",
+                    "pprice": "28.90",
+                    "wprice": "19.90",
+                    "title": "雷士照明(NVC)E-NLED9525LED灯防雾防炫一体化客厅背景墙天花筒灯(3W黄光开孔75mm)",
+                    "srv": "loveLife_1708025",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1100526",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1249/175/1037694713/157775/1ed3fac7/556ed5e2N59f069ad.jpg",
+                    "pprice": "168.00",
+                    "wprice": "121.00",
+                    "title": "伊利奶粉 金领冠幼儿配方奶粉3段1200克特惠三联装新包装（1-3岁幼儿适用）",
+                    "srv": "loveLife_1100526",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1677441",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1468/275/257457467/71009/a502c8d6/558ba0d5N21f3e5cb.jpg",
+                    "pprice": "399.00",
+                    "wprice": "389.00",
+                    "title": "爱音（Aing）C011多功能分体儿童餐椅/组合椅/宝宝餐椅/可变书桌躺椅/果橙色",
+                    "srv": "loveLife_1677441",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "841536",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t685/198/1446006827/156921/a067af78/54e29573Na9e4939c.jpg",
+                    "pprice": "248.00",
+                    "wprice": "199.00",
+                    "title": "妈咪宝贝 MamyPoko 婴儿小内裤【男】中号M184片【7-10kg】",
+                    "srv": "loveLife_841536",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1072080",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t1663/328/211710849/170026/cca7f40e/55826003N28761a1f.jpg",
+                    "pprice": "128.00",
+                    "wprice": "119.00",
+                    "title": "多美滋(Dumex)精确盈养幼儿配方奶粉 3段(12-36个月幼儿适用) 1290克(430g*3 电商特惠装 7心品质 进口奶源)",
+                    "srv": "loveLife_1072080",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1036576818",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t556/136/1013325270/344096/55c0a6bc/54a8edf3N5f20b40c.jpg",
+                    "pprice": "66.80",
+                    "wprice": "65.80",
+                    "title": "秋林里道斯 经典组合红肠500g+儿童肠400g 哈尔滨的味道",
+                    "srv": "loveLife_1036576818",
+                    "top": 0,
+                    "onSell": 1
+                },
+                {
+                    "skuId": "1790117069",
+                    "img": "http://m.360buyimg.com/mobile/s200x200_jfs/t2080/102/842899563/423028/1d9ce48b/563067abN417e422b.jpg",
+                    "pprice": "19.90",
+                    "wprice": "19.90",
+                    "title": "华美 奇趣饼干曲奇罐装糕点零食258g铁罐装升级版 为红色罐体",
+                    "srv": "loveLife_1790117069",
+                    "top": 0,
+                    "onSell": 1
+                }
+            ],
+            "jump": {
+                "des": "m",
+                "type": 0,
+                "url": "http://sale.jd.com/app/act/ehIafxgDJOzwFk1A.html?utm_source=loveLife",
+                "params": {
+                    "funcitonId": null,
+                    "from": null,
+                    "url": "http://sale.jd.com/app/act/ehIafxgDJOzwFk1A.html?utm_source=loveLife"
+                },
+                "srv": "loveLife_SingleGoods"
+            },
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 86,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "超量菜",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2473/360/1162866646/4127/ddc0420d/564ad55fN5073c492.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "005",
+                    "picList": [
+                        {
+                            "identityId": 568,
+                            "img": "http://m.360buyimg.com/mobile/s288x270_jfs/t2125/38/1478497390/95476/adaff068/565ffe0eN150ef4dc.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/FyY60mLasweRZhx.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/FyY60mLasweRZhx.html"
+                                },
+                                "srv": "loveLife_568"
+                            }
+                        },
+                        {
+                            "identityId": 579,
+                            "img": "http://m.360buyimg.com/mobile/s288x128_jfs/t1873/133/1500848009/76780/aa547580/565ff62dNcff9eb5d.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/KBqQtjoGVvFEP.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/KBqQtjoGVvFEP.html"
+                                },
+                                "srv": "loveLife_579"
+                            }
+                        },
+                        {
+                            "identityId": 570,
+                            "img": "http://m.360buyimg.com/mobile/s288x128_jfs/t2176/226/1446729702/80027/bfb09976/565ff363N816d6b23.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/PEtMyWwFK4gA6I75.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/PEtMyWwFK4gA6I75.html"
+                                },
+                                "srv": "loveLife_570"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                },
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 695,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t1954/117/1038931132/105483/9213b433/5660f7b4N38c06ff2.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/m5C8R2qAGi.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/m5C8R2qAGi.html"
+                                },
+                                "srv": "loveLife_695"
+                            }
+                        }
+                    ],
+                    "identityId": 1
+                },
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 760,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2035/33/1481472425/120794/c2be176b/566134e3N9448065d.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/SQIEM4BYsiyOfn.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/SQIEM4BYsiyOfn.html"
+                                },
+                                "srv": "loveLife_760"
+                            }
+                        }
+                    ],
+                    "identityId": 3
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 166,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "hybridList": [],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 131,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 765,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t1846/64/1563127400/169420/a819d4b1/5662988bNe14c033b.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/yZt1LcCjBM6u.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/yZt1LcCjBM6u.html"
+                                },
+                                "srv": "loveLife_765"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 81,
+            "pattern": "NSelectN",
+            "fheader": {
+                "lctitle": "11月超市专享",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2284/235/854937935/3988/265efcf7/562d9c73Ndb690f9a.png",
+                "jump": {}
+            },
+            "nBynList": [
+                {
+                    "slogan": "共19件",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2422/22/1463110911/173492/11ecc7ba/56610798N98711b35.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2116/72/168194580/389232/2e492c42/55f3c9d8N188d0f8c.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2158/153/168015949/380032/1cf6395f/55f3f6bfNfcfb0409.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1810/290/810012421/464543/5e245aab/55dad556N2e660425.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1339/294/634998508/536967/477bb867/55dc305aN38d70252.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "759",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "loveLife"
+                        },
+                        "srv": "loveLife_759"
+                    }
+                },
+                {
+                    "slogan": "共38件",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2473/307/1509799183/406140/1d12c6f4/5660f7eaN09f8c34c.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t931/81/1051942689/524031/ff8c74cf/556d10f7N67e32203.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2506/139/114355039/415595/57f5c928/55eea829Nb592230d.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2260/331/648664801/503153/c59807d7/5620ca29Nbc87a8ba.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1453/85/1374789234/183438/88a9b006/55c5b3efN9fa0b4cb.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "756",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "loveLife"
+                        },
+                        "srv": "loveLife_756"
+                    }
+                },
+                {
+                    "slogan": "共42件",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2233/319/1100897603/100680/f1bd275d/56446471Nd51f6336.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2254/260/736431525/215197/70c35aa3/562605e0Nb30a2926.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2026/131/1005211718/283045/1d266b7d/56381f36Nc9233a37.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1909/36/846639273/405414/ec35d8d7/562f222bN1933614c.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1951/353/667121571/205346/fd6cefc1/561f6131Nf98f69ff.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "560",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "loveLife"
+                        },
+                        "srv": "loveLife_560"
+                    }
+                },
+                {
+                    "slogan": "共9件",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t1888/101/1490689191/686509/118ef7c3/56600cb3Nea363721.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2104/337/36582136/473227/3bc0f9a6/55e90040N8b4d2495.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1945/289/72601344/427279/ad7a59fe/55ebf639N759de08f.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1447/312/837108774/506034/43f3c54c/55af6387N52daf25a.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1834/117/1326093273/429313/55c150c5/55e90360Nf6081c30.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "743",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "loveLife"
+                        },
+                        "srv": "loveLife_743"
+                    }
+                },
+                {
+                    "slogan": "共30件",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2125/212/1487374318/100434/581fbc5a/56614aebN26f5f943.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1450/290/1147447454/397375/cfcd4f80/55bb47cfNd1d8e21b.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1432/34/1071057841/84238/ce5cd7d0/55b9cec1N47871365.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1699/25/1373438261/85142/c1decbba/55c94e2fN58db6cdb.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t1546/59/1018793444/156201/6e112f10/55b980c2N52e1374f.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "762",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "loveLife"
+                        },
+                        "srv": "loveLife_762"
+                    }
+                },
+                {
+                    "slogan": "共7件",
+                    "img": "http://m.360buyimg.com/mobile/s450x300_jfs/t2539/160/314941956/94726/21a009c8/564460ceN53c511b2.jpg",
+                    "imgList": [
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2356/179/1029769478/184017/dd0fc4b8/5639b653N95dc1374.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2053/351/1001486784/180123/65ae6add/5639cbb9Neac3ceff.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2038/141/356220596/635495/c510b756/5600c262Na48a79ab.jpg",
+                        "http://m.360buyimg.com/mobile/s200x200_jfs/t2401/352/1195950131/167562/afa30b02/56470676N79b0e8fb.jpg"
+                    ],
+                    "jump": {
+                        "des": "aggregatePage",
+                        "type": 1,
+                        "params": {
+                            "moduleId": "558",
+                            "funcitonId": null,
+                            "from": null,
+                            "bid": "loveLife"
+                        },
+                        "srv": "loveLife_558"
+                    }
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 123,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 125,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "hybridList": [],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 129,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "天天果园通栏",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2497/247/1270739467/4708/30612494/564ad7c0N06c3b145.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 701,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t1906/134/1074530712/88807/f404af10/565e5c72N18db2172.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/0G14n6EMPLylbdo.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/0G14n6EMPLylbdo.html"
+                                },
+                                "srv": "loveLife_701"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 124,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 561,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2470/157/1112618084/98352/1b3a36d4/564466a4Ncbd73259.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/U1DkSXZHu7tcfFhJ.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/U1DkSXZHu7tcfFhJ.html"
+                                },
+                                "srv": "loveLife_561"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 138,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "rctitle": "",
+                "jump": {}
+            },
+            "hybridList": [],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 133,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 127,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "lctitle": "超市新楼层",
+                "lctitleImg": "http://m.360buyimg.com/mobile/jfs/t2284/240/1239201292/4046/1a571f33/564ad36bN29100f4f.png",
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "007",
+                    "picList": [
+                        {
+                            "identityId": 698,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t1864/286/1086762660/65955/a8eeeb95/565c0633N74c2a26f.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/KCxgELYI2DGPQ73N.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/KCxgELYI2DGPQ73N.html"
+                                },
+                                "srv": "loveLife_698"
+                            }
+                        },
+                        {
+                            "identityId": 693,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t1885/127/1399697003/98172/5c62a7df/565bb844N319542d2.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/D4pnXxiWMV8JzrLs.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/D4pnXxiWMV8JzrLs.html"
+                                },
+                                "srv": "loveLife_693"
+                            }
+                        },
+                        {
+                            "identityId": 750,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2572/163/679472171/81196/805eecd4/565ff4d5N89dfdd5d.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/l40fWaso5K.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/l40fWaso5K.html"
+                                },
+                                "srv": "loveLife_750"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                },
+                {
+                    "pattern": "007",
+                    "picList": [
+                        {
+                            "identityId": 566,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2173/33/1439528309/57169/a8644300/565c10c2N9707962b.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://wyx.m.jd.com/ch/index-10006.htm",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://wyx.m.jd.com/ch/index-10006.htm"
+                                },
+                                "srv": "loveLife_566"
+                            }
+                        },
+                        {
+                            "identityId": 703,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2068/147/1523733270/40278/9dfb44ea/565c1012N8928a2de.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/SGJL8AzqhBpr.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/SGJL8AzqhBpr.html"
+                                },
+                                "srv": "loveLife_703"
+                            }
+                        },
+                        {
+                            "identityId": 731,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2323/220/1411698552/56051/2b6aefe4/565d6babNcf2f4b39.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/Xewg3c2Wm5.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/Xewg3c2Wm5.html"
+                                },
+                                "srv": "loveLife_731"
+                            }
+                        }
+                    ],
+                    "identityId": 1
+                },
+                {
+                    "pattern": "007",
+                    "picList": [
+                        {
+                            "identityId": 753,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2176/217/1482593297/58984/9fe669b1/566007d5N787d0502.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/KadevqIYyEpO.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/KadevqIYyEpO.html"
+                                },
+                                "srv": "loveLife_753"
+                            }
+                        },
+                        {
+                            "identityId": 709,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t1996/290/1454785655/77420/92da5ff4/565e896bN23da20b3.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/WPqDHUBanx0j2G.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/WPqDHUBanx0j2G.html"
+                                },
+                                "srv": "loveLife_709"
+                            }
+                        },
+                        {
+                            "identityId": 710,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2473/151/1457876451/90618/c154a9b3/565c1f57N7d12c19c.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/dIgyhvPe0a6AJUqt.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/dIgyhvPe0a6AJUqt.html"
+                                },
+                                "srv": "loveLife_710"
+                            }
+                        }
+                    ],
+                    "identityId": 2
+                },
+                {
+                    "pattern": "007",
+                    "picList": [
+                        {
+                            "identityId": 622,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2272/333/1416211213/88162/6f3fbdcc/565d3b8cN5cd95d93.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/gkF1u8MXVQU.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/gkF1u8MXVQU.html"
+                                },
+                                "srv": "loveLife_622"
+                            }
+                        },
+                        {
+                            "identityId": 691,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t2425/284/1486821441/84852/d3bfc1ec/565d4640N903b5fa8.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/datuBVfphx.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/datuBVfphx.html"
+                                },
+                                "srv": "loveLife_691"
+                            }
+                        },
+                        {
+                            "identityId": 692,
+                            "img": "http://m.360buyimg.com/mobile/s187x187_jfs/t1996/345/1460412479/79229/7b3b9e5a/565d4678Nf273c99f.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/gkWxoIj4XfTwi5.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/gkWxoIj4XfTwi5.html"
+                                },
+                                "srv": "loveLife_692"
+                            }
+                        }
+                    ],
+                    "identityId": 3
+                }
+            ],
+            "margin": {
+                "height": 10
+            }
+        },
+        {
+            "identityId": 97,
+            "pattern": "NormalFloor",
+            "fheader": {
+                "jump": {}
+            },
+            "hybridList": [
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 739,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2482/48/1094968067/131854/6614ed42/566132e3Ncb3e84c7.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/UgZkpm5rYzwP8.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/UgZkpm5rYzwP8.html"
+                                },
+                                "srv": "loveLife_739"
+                            }
+                        }
+                    ],
+                    "identityId": 0
+                },
+                {
+                    "pattern": "002",
+                    "picList": [
+                        {
+                            "identityId": 662,
+                            "img": "http://m.360buyimg.com/mobile/s591x135_jfs/t2515/85/566089309/100774/d43b2574/565510a4N33969a28.jpg",
+                            "jump": {
+                                "des": "m",
+                                "type": 0,
+                                "url": "http://sale.jd.com/app/act/rJ2Pj1onTNaq.html",
+                                "params": {
+                                    "funcitonId": null,
+                                    "from": null,
+                                    "url": "http://sale.jd.com/app/act/rJ2Pj1onTNaq.html"
+                                },
+                                "srv": "loveLife_662"
+                            }
+                        }
+                    ],
+                    "identityId": 1
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        },
+        {
+            "identityId": 59,
+            "pattern": "Category",
+            "fheader": {
+                "jump": {}
+            },
+            "categoryList": [
+                {
+                    "identityId": 128,
+                    "title": "精选推荐",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "128",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "srv": "loveLife_0_精选推荐"
+                },
+                {
+                    "identityId": 129,
+                    "title": "包邮妙物",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "129",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "srv": "loveLife_1_包邮妙物"
+                },
+                {
+                    "identityId": 157,
+                    "title": "休闲零食",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "157",
+                        "keyword": "零食",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "休闲零食",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "275",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1590"
+                            },
+                            "srv": "loveLife_休闲零食_休闲零食"
+                        },
+                        {
+                            "title": "坚果炒货",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "181",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1591"
+                            },
+                            "srv": "loveLife_休闲零食_坚果炒货"
+                        },
+                        {
+                            "title": "肉干肉铺",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "182",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1592"
+                            },
+                            "srv": "loveLife_休闲零食_肉干肉铺"
+                        },
+                        {
+                            "title": "蜜饯干果",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "183",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1593"
+                            },
+                            "srv": "loveLife_休闲零食_蜜饯干果"
+                        },
+                        {
+                            "title": "糖巧",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "184",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1594"
+                            },
+                            "srv": "loveLife_休闲零食_糖巧"
+                        },
+                        {
+                            "title": "饼干蛋糕",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "180",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1595"
+                            },
+                            "srv": "loveLife_休闲零食_饼干蛋糕"
+                        },
+                        {
+                            "title": "进口食品",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "进口食品",
+                                "secondCategoryId": "276",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_休闲零食_进口食品"
+                        },
+                        {
+                            "title": "无糖食品",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1583",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "277",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "7121"
+                            },
+                            "srv": "loveLife_休闲零食_无糖食品"
+                        }
+                    ],
+                    "srv": "loveLife_2_休闲零食"
+                },
+                {
+                    "identityId": 150,
+                    "title": "粮油牛奶",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "150",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "食用油",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1584",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "278",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2676"
+                            },
+                            "srv": "loveLife_粮油牛奶_食用油"
+                        },
+                        {
+                            "title": "牛奶乳品",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1585",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "279",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "9434"
+                            },
+                            "srv": "loveLife_粮油牛奶_牛奶乳品"
+                        },
+                        {
+                            "title": "米面杂粮",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1584",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "280",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2675"
+                            },
+                            "srv": "loveLife_粮油牛奶_米面杂粮"
+                        },
+                        {
+                            "title": "饮用水",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1585",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "281",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "10975"
+                            },
+                            "srv": "loveLife_粮油牛奶_饮用水"
+                        },
+                        {
+                            "title": "茗茶",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "茗茶",
+                                "secondCategoryId": "282",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_粮油牛奶_茗茶"
+                        },
+                        {
+                            "title": "饮料",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1585",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "283",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1602"
+                            },
+                            "srv": "loveLife_粮油牛奶_饮料"
+                        },
+                        {
+                            "title": "方便食品",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1584",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "284",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2679"
+                            },
+                            "srv": "loveLife_粮油牛奶_方便食品"
+                        },
+                        {
+                            "title": "地方特产",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "地方特产",
+                                "secondCategoryId": "285",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_粮油牛奶_地方特产"
+                        },
+                        {
+                            "title": "冲饮谷物",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1585",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "286",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1601"
+                            },
+                            "srv": "loveLife_粮油牛奶_冲饮谷物"
+                        },
+                        {
+                            "title": "咖啡奶茶",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1585",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "287",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "3986"
+                            },
+                            "srv": "loveLife_粮油牛奶_咖啡奶茶"
+                        },
+                        {
+                            "title": "调味品",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1584",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "288",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2677"
+                            },
+                            "srv": "loveLife_粮油牛奶_调味品"
+                        },
+                        {
+                            "title": "南北干货",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1584",
+                                "catelogyIdLevel1": "1320",
+                                "secondCategoryId": "289",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2678"
+                            },
+                            "srv": "loveLife_粮油牛奶_南北干货"
+                        }
+                    ],
+                    "srv": "loveLife_3_粮油牛奶"
+                },
+                {
+                    "identityId": 168,
+                    "title": "母婴",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "168",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "婴幼奶粉",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1523",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "244",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "7052"
+                            },
+                            "srv": "loveLife_母婴_婴幼奶粉"
+                        },
+                        {
+                            "title": "婴儿尿裤",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1525",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "245",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "7057"
+                            },
+                            "srv": "loveLife_母婴_婴儿尿裤"
+                        },
+                        {
+                            "title": "洗护用品",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1527",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "246",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1555"
+                            },
+                            "srv": "loveLife_母婴_洗护用品"
+                        },
+                        {
+                            "title": "奶瓶奶嘴",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1526",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "247",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "7060"
+                            },
+                            "srv": "loveLife_母婴_奶瓶奶嘴"
+                        },
+                        {
+                            "title": "吸奶器",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1526",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "248",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1550"
+                            },
+                            "srv": "loveLife_母婴_吸奶器"
+                        },
+                        {
+                            "title": "婴儿床",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1528",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "249",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1564"
+                            },
+                            "srv": "loveLife_母婴_婴儿床"
+                        },
+                        {
+                            "title": "婴儿推车",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1528",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "250",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1563"
+                            },
+                            "srv": "loveLife_母婴_婴儿推车"
+                        },
+                        {
+                            "title": "安全座椅",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "12193",
+                                "catelogyIdLevel1": "1319",
+                                "secondCategoryId": "251",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "12195"
+                            },
+                            "srv": "loveLife_母婴_安全座椅"
+                        },
+                        {
+                            "title": "童装童鞋",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "童装童鞋",
+                                "secondCategoryId": "252",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_母婴_童装童鞋"
+                        },
+                        {
+                            "title": "婴儿玩具",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "婴儿玩具",
+                                "secondCategoryId": "253",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_母婴_婴儿玩具"
+                        }
+                    ],
+                    "srv": "loveLife_4_母婴"
+                },
+                {
+                    "identityId": 147,
+                    "title": "美妆护肤",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "147",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "护肤",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1381",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "96",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1391"
+                            },
+                            "srv": "loveLife_美妆护肤_护肤"
+                        },
+                        {
+                            "title": "清洁",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1381",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "97",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1389"
+                            },
+                            "srv": "loveLife_美妆护肤_清洁"
+                        },
+                        {
+                            "title": "面膜",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1381",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "98",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1392"
+                            },
+                            "srv": "loveLife_美妆护肤_面膜"
+                        },
+                        {
+                            "title": "剃须",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1381",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "99",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1416"
+                            },
+                            "srv": "loveLife_美妆护肤_剃须"
+                        },
+                        {
+                            "title": "底妆",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1387",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "100",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1420"
+                            },
+                            "srv": "loveLife_美妆护肤_底妆"
+                        },
+                        {
+                            "title": "眼部",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1387",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "101",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1422"
+                            },
+                            "srv": "loveLife_美妆护肤_眼部"
+                        },
+                        {
+                            "title": "香水",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1387",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "102",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11932"
+                            },
+                            "srv": "loveLife_美妆护肤_香水"
+                        },
+                        {
+                            "title": "美妆",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "美妆",
+                                "secondCategoryId": "103",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_美妆护肤_美妆"
+                        }
+                    ],
+                    "srv": "loveLife_5_美妆护肤"
+                },
+                {
+                    "identityId": 130,
+                    "title": "洗护用品",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "130",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "洗发",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1386",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "69",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11922"
+                            },
+                            "srv": "loveLife_洗护用品_洗发"
+                        },
+                        {
+                            "title": "护发",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1386",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "120",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11923"
+                            },
+                            "srv": "loveLife_洗护用品_护发"
+                        },
+                        {
+                            "title": "沐浴",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1383",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "70",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1401"
+                            },
+                            "srv": "loveLife_洗护用品_沐浴"
+                        },
+                        {
+                            "title": "染发",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1386",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "121",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11924"
+                            },
+                            "srv": "loveLife_洗护用品_染发"
+                        },
+                        {
+                            "title": "造型",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1386",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "122",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11925"
+                            },
+                            "srv": "loveLife_洗护用品_造型"
+                        }
+                    ],
+                    "srv": "loveLife_6_洗护用品"
+                },
+                {
+                    "identityId": 148,
+                    "title": "清洁用品",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "148",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "纸品湿巾",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1625",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "104",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1671"
+                            },
+                            "srv": "loveLife_清洁用品_纸品湿巾"
+                        },
+                        {
+                            "title": "收纳",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "收纳",
+                                "secondCategoryId": "105",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_清洁用品_收纳"
+                        },
+                        {
+                            "title": "洗衣液",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1625",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "106",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1662"
+                            },
+                            "srv": "loveLife_清洁用品_洗衣液"
+                        },
+                        {
+                            "title": "一次性用",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1625",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "107",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11970"
+                            },
+                            "srv": "loveLife_清洁用品_一次性用"
+                        }
+                    ],
+                    "srv": "loveLife_7_清洁用品"
+                },
+                {
+                    "identityId": 131,
+                    "title": "口腔女性",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "131",
+                        "catelogyIdLevel2": "1625",
+                        "catelogyIdLevel1": "1316",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "catelogyId": "11970",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "牙膏",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1384",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "88",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1405"
+                            },
+                            "srv": "loveLife_口腔女性_牙膏"
+                        },
+                        {
+                            "title": "牙刷",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1384",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "89",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1406"
+                            },
+                            "srv": "loveLife_口腔女性_牙刷"
+                        },
+                        {
+                            "title": "漱口水",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1384",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "90",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1407"
+                            },
+                            "srv": "loveLife_口腔女性_漱口水"
+                        },
+                        {
+                            "title": "套装",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1384",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "91",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11930"
+                            },
+                            "srv": "loveLife_口腔女性_套装"
+                        },
+                        {
+                            "title": "姨妈巾",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1385",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "92",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1408"
+                            },
+                            "srv": "loveLife_口腔女性_姨妈巾"
+                        },
+                        {
+                            "title": "卫生护垫",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1385",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "93",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1409"
+                            },
+                            "srv": "loveLife_口腔女性_卫生护垫"
+                        },
+                        {
+                            "title": "私密护理",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1385",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "94",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1410"
+                            },
+                            "srv": "loveLife_口腔女性_私密护理"
+                        },
+                        {
+                            "title": "脱毛膏",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1385",
+                                "catelogyIdLevel1": "1316",
+                                "secondCategoryId": "95",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "5150"
+                            },
+                            "srv": "loveLife_口腔女性_脱毛膏"
+                        }
+                    ],
+                    "srv": "loveLife_8_口腔女性"
+                },
+                {
+                    "identityId": 149,
+                    "title": "家居家纺",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "149",
+                        "keyword": "家居家纺",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "被子",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1621",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "186",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1627"
+                            },
+                            "srv": "loveLife_家居家纺_被子"
+                        },
+                        {
+                            "title": "布衣软饰",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1621",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "187",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11962"
+                            },
+                            "srv": "loveLife_家居家纺_布衣软饰"
+                        },
+                        {
+                            "title": "枕芯被芯",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "枕芯被芯",
+                                "secondCategoryId": "189",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_家居家纺_枕芯被芯"
+                        },
+                        {
+                            "title": "电热毯",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1621",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "185",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2688"
+                            },
+                            "srv": "loveLife_家居家纺_电热毯"
+                        },
+                        {
+                            "title": "床品套件",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "床品套件",
+                                "secondCategoryId": "188",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_家居家纺_床品套件"
+                        },
+                        {
+                            "title": "毛巾浴巾",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "毛巾浴巾",
+                                "secondCategoryId": "190",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_家居家纺_毛巾浴巾"
+                        },
+                        {
+                            "title": "厨具",
+                            "type": 2,
+                            "functionId": "search",
+                            "businessType": 0,
+                            "params": {
+                                "keyword": "厨具",
+                                "secondCategoryId": "311",
+                                "from": "search",
+                                "functionId": "search"
+                            },
+                            "srv": "loveLife_家居家纺_厨具"
+                        },
+                        {
+                            "title": "保暖防护",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "11158",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "305",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11167"
+                            },
+                            "srv": "loveLife_家居家纺_保暖防护"
+                        },
+                        {
+                            "title": "台灯",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1623",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "306",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1648"
+                            },
+                            "srv": "loveLife_家居家纺_台灯"
+                        },
+                        {
+                            "title": "收纳",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1624",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "307",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1655"
+                            },
+                            "srv": "loveLife_家居家纺_收纳"
+                        },
+                        {
+                            "title": "装饰字画",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "11158",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "308",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11163"
+                            },
+                            "srv": "loveLife_家居家纺_装饰字画"
+                        },
+                        {
+                            "title": "摆件",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "11158",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "309",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "11166"
+                            },
+                            "srv": "loveLife_家居家纺_摆件"
+                        },
+                        {
+                            "title": "净化除味",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1624",
+                                "catelogyIdLevel1": "1620",
+                                "secondCategoryId": "310",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1661"
+                            },
+                            "srv": "loveLife_家居家纺_净化除味"
+                        },
+                        {
+                            "title": "保温杯",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "6219",
+                                "catelogyIdLevel1": "6196",
+                                "secondCategoryId": "312",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "6223"
+                            },
+                            "srv": "loveLife_家居家纺_保温杯"
+                        },
+                        {
+                            "title": "炒锅",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "6197",
+                                "catelogyIdLevel1": "6196",
+                                "secondCategoryId": "313",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "6199"
+                            },
+                            "srv": "loveLife_家居家纺_炒锅"
+                        },
+                        {
+                            "title": "饭盒",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "6214",
+                                "catelogyIdLevel1": "6196",
+                                "secondCategoryId": "314",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "6218"
+                            },
+                            "srv": "loveLife_家居家纺_饭盒"
+                        }
+                    ],
+                    "srv": "loveLife_9_家居家纺"
+                },
+                {
+                    "identityId": 155,
+                    "title": "箱包",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "155",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "钱包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2615",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "191",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "9187"
+                            },
+                            "srv": "loveLife_箱包_钱包"
+                        },
+                        {
+                            "title": "双肩包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2575",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "192",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "5258"
+                            },
+                            "srv": "loveLife_箱包_双肩包"
+                        },
+                        {
+                            "title": "斜挎包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2575",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "193",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "5260"
+                            },
+                            "srv": "loveLife_箱包_斜挎包"
+                        },
+                        {
+                            "title": "手提包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2575",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "194",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "5259"
+                            },
+                            "srv": "loveLife_箱包_手提包"
+                        },
+                        {
+                            "title": "单肩包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2575",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "195",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "5257"
+                            },
+                            "srv": "loveLife_箱包_单肩包"
+                        },
+                        {
+                            "title": "运动包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2577",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "196",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "3998"
+                            },
+                            "srv": "loveLife_箱包_运动包"
+                        },
+                        {
+                            "title": "旅行包",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2577",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "197",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "3998"
+                            },
+                            "srv": "loveLife_箱包_旅行包"
+                        },
+                        {
+                            "title": "拉杆箱",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "2577",
+                                "catelogyIdLevel1": "1672",
+                                "secondCategoryId": "198",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "2589"
+                            },
+                            "srv": "loveLife_箱包_拉杆箱"
+                        }
+                    ],
+                    "srv": "loveLife_10_箱包"
+                },
+                {
+                    "identityId": 151,
+                    "title": "成人用品",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "151",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "安全避孕",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "9196",
+                                "catelogyIdLevel1": "9192",
+                                "secondCategoryId": "123",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1502"
+                            },
+                            "srv": "loveLife_成人用品_安全避孕"
+                        },
+                        {
+                            "title": "验孕测孕",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "9196",
+                                "catelogyIdLevel1": "9192",
+                                "secondCategoryId": "124",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1503"
+                            },
+                            "srv": "loveLife_成人用品_验孕测孕"
+                        },
+                        {
+                            "title": "人体润滑",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "9196",
+                                "catelogyIdLevel1": "9192",
+                                "secondCategoryId": "125",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1504"
+                            },
+                            "srv": "loveLife_成人用品_人体润滑"
+                        },
+                        {
+                            "title": "男用延时",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "9196",
+                                "catelogyIdLevel1": "9192",
+                                "secondCategoryId": "304",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "12609"
+                            },
+                            "srv": "loveLife_成人用品_男用延时"
+                        }
+                    ],
+                    "srv": "loveLife_11_成人用品"
+                },
+                {
+                    "identityId": 152,
+                    "title": "小家电",
+                    "functionId": "aggregatePage",
+                    "params": {
+                        "firstCategoryId": "152",
+                        "from": "aggregatePage",
+                        "functionId": "aggregatePage",
+                        "bid": "loveLife"
+                    },
+                    "type": 2,
+                    "subs": [
+                        {
+                            "title": "加湿器",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "738",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "126",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "748"
+                            },
+                            "srv": "loveLife_小家电_加湿器"
+                        },
+                        {
+                            "title": "插座",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "738",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "127",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1052"
+                            },
+                            "srv": "loveLife_小家电_插座"
+                        },
+                        {
+                            "title": "取暖器",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "738",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "128",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "747"
+                            },
+                            "srv": "loveLife_小家电_取暖器"
+                        },
+                        {
+                            "title": "电吹风",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1276",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "129",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "740"
+                            },
+                            "srv": "loveLife_小家电_电吹风"
+                        },
+                        {
+                            "title": "智能秤",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1276",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "130",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1289"
+                            },
+                            "srv": "loveLife_小家电_智能秤"
+                        },
+                        {
+                            "title": "足浴盆",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1276",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "131",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "963"
+                            },
+                            "srv": "loveLife_小家电_足浴盆"
+                        },
+                        {
+                            "title": "体温计",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1276",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "132",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "1292"
+                            },
+                            "srv": "loveLife_小家电_体温计"
+                        },
+                        {
+                            "title": "血压计",
+                            "type": 2,
+                            "functionId": "searchCatelogy",
+                            "businessType": 1,
+                            "params": {
+                                "catelogyIdLevel2": "1276",
+                                "catelogyIdLevel1": "737",
+                                "secondCategoryId": "133",
+                                "from": "searchCatelogy",
+                                "functionId": "searchCatelogy",
+                                "catelogyId": "966"
+                            },
+                            "srv": "loveLife_小家电_血压计"
+                        }
+                    ],
+                    "srv": "loveLife_12_小家电"
+                }
+            ],
+            "margin": {
+                "height": 0
+            }
+        }
+    ],
+    "name": "京东超市",
+    "code": "0",
+    "executeTime": 9,
+    "head": {
+        "id": 22,
+        "title": "京东超市",
+        "titleImg": "http://m.360buyimg.com/mobile/jfs/t2242/266/844732356/3936/438be262/562f66b4N8914a94e.png",
+        "isShare": 0,
+        "withCart": 1,
+        "cartSrv": "loveLife"
+    },
+    "float": {
+        "picList": [
+            {
+                "title": "促销活动",
+                "img": "http://m.360buyimg.com/mobile/jfs/t2230/291/465847690/1060/2607e733/560e0417N0aa913b0.png",
+                "jump": {
+                    "des": "m",
+                    "type": 0,
+                    "url": "http://sale.jd.com/app/act/i31XqNbfT0wl.html",
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "url": "http://sale.jd.com/app/act/i31XqNbfT0wl.html"
+                    },
+                    "srv": "loveLife_促销活动"
+                }
+            },
+            {
+                "title": "排行榜",
+                "img": "http://m.360buyimg.com/mobile/jfs/t2443/170/462683454/1932/e5cb770/560e0444N7b2fec2b.png",
+                "jump": {
+                    "des": "ranklist",
+                    "type": 1,
+                    "params": {
+                        "categoryIds": "1381,1386,1383,1384,1385,1625,1624",
+                        "funcitonId": null,
+                        "from": null
+                    },
+                    "srv": "loveLife_排行榜"
+                }
+            },
+            {
+                "title": "分类",
+                "img": "http://m.360buyimg.com/mobile/jfs/t2230/291/465847690/1060/2607e733/560e0417N0aa913b0.png",
+                "jump": {
+                    "des": "genericChannel",
+                    "type": 1,
+                    "params": {
+                        "funcitonId": null,
+                        "from": null,
+                        "bid": "lovelifeCategory"
+                    },
+                    "srv": "loveLife_分类"
+                }
+            }
+        ]
+    }
+}

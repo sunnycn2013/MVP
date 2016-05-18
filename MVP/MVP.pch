@@ -1,0 +1,29 @@
+//
+//  MVP.pch
+//  MVP
+//
+//  Created by sunnyvale on 15/12/6.
+//  Copyright © 2015年 sunnyvale. All rights reserved.
+//
+
+#ifndef MVP_pch
+#define MVP_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <AFNetworking/AFNetworking.h>
+#import <AFNetworking/UIImageView+AFNetworking.h>
+#import <AFNetworking/AFURLRequestSerialization.h>
+#import <AFNetworking/AFURLResponseSerialization.h>
+#import <MJExtension/MJExtension.h>
+#import <Masonry/Masonry.h>
+
+#import <MJRefresh/MJRefresh.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+
+#import "GlobalConfig.h"
+#import "NavigateManager.h"
+#import "UIView+Template.h"
+
+#endif /* MVP_pch */
